@@ -72,7 +72,10 @@ This project is a **low-cost, voice-controlled home automation system** develope
 
 ## 📷 Project Images / Diagrams
 
-*(Add circuit diagrams, breadboard layout, or photos of your setup here)*
+Block diagram:
+![image](https://github.com/user-attachments/assets/18bf2d78-a77a-42fe-b3fc-bfb839242978)
+Circuit diagram:
+![image](https://github.com/user-attachments/assets/6c728658-77b2-4bdb-b1d3-853f577a57f2)
 
 ---
 
