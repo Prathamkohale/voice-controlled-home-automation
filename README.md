@@ -76,12 +76,6 @@ This project is a **low-cost, voice-controlled home automation system** develope
 
 ---
 
-## 📄 License
-
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
-
----
-
 ## 🙌 Acknowledgments
 
 Inspired by the growing need for accessible smart home systems and the potential of low-cost microcontrollers in automation.
