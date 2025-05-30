@@ -1,7 +1,7 @@
 #include<SoftwareSerial.h>
 // Define 2 channel relay pins
 const int Light1 = 6; // Relay pin 1 (IN1)
-const int Light2 = 5; // Relay pin 2 (IN2)
+const int Light2 = 5; // Relay pin 2 (IN2) 
 const int Light3 = 4;
 const int FAN = 7;
 /* Create object named bt of the class SoftwareSerial */
